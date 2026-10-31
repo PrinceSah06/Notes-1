@@ -9,3 +9,6 @@ At the start of every project, JavaScript is the best choice for all developers.
 Most senior developers have their own opinions on the importance of JS or TS.
 
 When TypeScript was new, it was very hard for a well-settled community to learn and implement it in their upcoming projects. But slowly, it took its own space and made its place in the market today. Or, we can say, all major libraries and frameworks are supporting it.
+
+
+TypeScript helps to make code more predictable, unlike JS. It provides type safety, so while developing, it is easy to share or understand what kind of response we need or what we are getting. It helps to catch bugs while writing code or before compile time, which helps to reduce errors or bugs incredibly fast.
